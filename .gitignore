@@ -164,6 +164,7 @@ artifacts/*
 
 research/* 
 !research/01_data_ingestion.ipynb
-!research/02_data_validation.ipynb  
+!research/02_data_validation.ipynb
+!research/03_data_tranformation.ipynb    
 !research/Text_Summarization.ipynb 
 !research/trial.ipynb

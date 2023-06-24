@@ -163,6 +163,7 @@ cython_debug/
 artifacts/*
 
 research/* 
-!research/01_data_ingestion.ipynb 
+!research/01_data_ingestion.ipynb
+!research/02_data_validation.ipynb  
 !research/Text_Summarization.ipynb 
 !research/trial.ipynb

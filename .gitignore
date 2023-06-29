@@ -165,6 +165,8 @@ artifacts/*
 research/* 
 !research/01_data_ingestion.ipynb
 !research/02_data_validation.ipynb
-!research/03_data_transformation.ipynb    
+!research/03_data_transformation.ipynb 
+!research/04_model_trainer.ipynb
+!research/05_model_evaluation.ipynb     
 !research/Text_Summarization.ipynb 
 !research/trial.ipynb

@@ -9,3 +9,6 @@
 6. Update the pipeline
 7. Update the main.py file 
 8. Update the app.py
+
+
+ECR Url: 242512199272.dkr.ecr.us-east-2.amazonaws.com/text-sum
